@@ -1,0 +1,9 @@
+.body {
+    background-color: black;
+}
+
+.img1 {
+        height: 300px;
+        width: 450px;
+        cursor: pointer;
+}
